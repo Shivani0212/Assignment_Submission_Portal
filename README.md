@@ -1,6 +1,4 @@
-Here’s a complete **README.md** file for your assignment submission portal project. You can copy and paste this content into a file named `README.md` in your project directory.
 
-```markdown
 # Assignment Submission Portal
 
 This is a backend system for an assignment submission portal where users can upload assignments, and admins can accept or reject them. The system uses **MongoDB** as the database and **Express.js** as the web framework.
